@@ -129,30 +129,6 @@ Amazon RDS MySQL
 
 ---
 
-# 📁 Project Structure
-
-```
-aws-3tier-student-app/
-
-README.md
-
-Architecture.png
-
-Screenshots/
-
-    VPC.png
-
-    EC2.png
-
-    RDS.png
-
-    Nginx.png
-
-    StudentApp.png
-```
-
----
-
 # 🎯 Learning Outcomes
 
 - Designed a secure AWS 3-Tier Architecture.
